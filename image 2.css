@@ -1,0 +1,28 @@
+.co {
+    background-color: #fffff1;
+    width: 50%;
+    border-right: 4px solid;
+    height: 400px;}
+
+
+.b1,.b2,.b3,.b4,.b5{
+
+
+    background-color: gray;
+    float: left;
+    width: 200px;
+    margin-right: 20px;
+    overflow: hidden;
+    height: 105px;
+
+
+}
+p.i {
+    margin-top: 140px;
+    border-bottom: 2px solid;
+    border-top: 2px solid;
+    width: 100%;
+    overflow: auto;
+    height: 50px;
+
+}
